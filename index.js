@@ -2,7 +2,7 @@ const NodeMediaServer = require('node-media-server');
 
 const config = {
   rtmp: {
-    port: process.env.PORT1,
+    port: process.env.port,
     chunk_size: 60000,
     gop_cache: true,
     ping: 30,
