@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "logrocket": "^2.2.1",
     "node-media-server": "^2.3.8"
   }
 }
