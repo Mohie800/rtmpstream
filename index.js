@@ -1,5 +1,5 @@
 const NodeMediaServer = require('node-media-server');
-import LogRocket from 'logrocket';
+const LogRocket = require('logrocket');
 LogRocket.init('4r4m1e/streamnow');
 
 const config = {
